@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow" format="2">
+  <advance width="1106"/>
+  <unicode hex="2192"/>
+  <outline>
+    <contour>
+      <point x="564" y="22" type="line"/>
+      <point x="1069" y="304" type="line"/>
+      <point x="564" y="585" type="line"/>
+      <point x="536" y="527" type="line"/>
+      <point x="902" y="323" type="line"/>
+      <point x="905" y="335" type="line"/>
+      <point x="24" y="335" type="line"/>
+      <point x="24" y="272" type="line"/>
+      <point x="905" y="272" type="line"/>
+      <point x="902" y="284" type="line"/>
+      <point x="536" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

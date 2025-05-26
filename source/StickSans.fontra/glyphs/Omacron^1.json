@@ -1,0 +1,76 @@
+{
+"name": "Omacron",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "O"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 203,
+"translateY": 204
+}
+}
+],
+"xAdvance": 747
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "O"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 175,
+"translateY": 204
+}
+}
+],
+"xAdvance": 747
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "O"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 188,
+"translateY": 204
+}
+}
+],
+"xAdvance": 748
+}
+}
+}
+}

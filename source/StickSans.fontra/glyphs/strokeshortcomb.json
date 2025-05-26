@@ -1,0 +1,139 @@
+{
+"name": "strokeshortcomb",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 31,
+"y": 242
+},
+{
+"x": 386,
+"y": 242
+},
+{
+"x": 386,
+"y": 342
+},
+{
+"x": 31,
+"y": 342
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 417,
+"anchors": [
+{
+"name": "_center",
+"x": 209,
+"y": 292
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 66,
+"y": 280
+},
+{
+"x": 285,
+"y": 280
+},
+{
+"x": 285,
+"y": 296
+},
+{
+"x": 66,
+"y": 296
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 351,
+"anchors": [
+{
+"name": "_center",
+"x": 176,
+"y": 288
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 49,
+"y": 262
+},
+{
+"x": 335,
+"y": 262
+},
+{
+"x": 335,
+"y": 319
+},
+{
+"x": 49,
+"y": 319
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 384,
+"anchors": [
+{
+"name": "_center",
+"x": 192,
+"y": 290
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

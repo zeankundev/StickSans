@@ -1,0 +1,79 @@
+{
+"name": "Gmacron",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "G"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 203,
+"translateY": 204
+}
+}
+],
+"xAdvance": 738
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "G"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 174,
+"translateY": 204
+}
+}
+],
+"xAdvance": 722
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "G"
+},
+{
+"name": "macroncomb",
+"transformation": {
+"translateX": 187,
+"translateY": 204
+}
+}
+],
+"xAdvance": 731
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 9
+}
+}

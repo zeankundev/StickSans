@@ -1,0 +1,91 @@
+{
+"name": "Ecircumflexdotbelow.ss03",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "E"
+},
+{
+"name": "dotbelowcomb.ss03",
+"transformation": {
+"translateX": 182
+}
+},
+{
+"name": "circumflexcomb.case",
+"transformation": {
+"translateX": 102
+}
+}
+],
+"xAdvance": 573
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "E"
+},
+{
+"name": "dotbelowcomb.ss03",
+"transformation": {
+"translateX": 231
+}
+},
+{
+"name": "circumflexcomb.case",
+"transformation": {
+"translateX": 113
+}
+}
+],
+"xAdvance": 590
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "E"
+},
+{
+"name": "dotbelowcomb.ss03",
+"transformation": {
+"translateX": 206
+}
+},
+{
+"name": "circumflexcomb.case",
+"transformation": {
+"translateX": 109
+}
+}
+],
+"xAdvance": 585
+}
+}
+}
+}

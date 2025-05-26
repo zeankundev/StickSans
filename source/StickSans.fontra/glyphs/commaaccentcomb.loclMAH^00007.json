@@ -1,0 +1,103 @@
+{
+"name": "commaaccentcomb.loclMAH",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "commaaccentcomb",
+"customData": {
+"com.glyphsapp.component.alignment": 1
+}
+}
+],
+"xAdvance": 273,
+"anchors": [
+{
+"name": "_bottom",
+"x": 137,
+"y": 0
+},
+{
+"name": "bottom",
+"x": 137,
+"y": -229
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "commaaccentcomb",
+"customData": {
+"com.glyphsapp.component.alignment": 1
+}
+}
+],
+"xAdvance": 264,
+"anchors": [
+{
+"name": "_bottom",
+"x": 185,
+"y": 0
+},
+{
+"name": "bottom",
+"x": 132,
+"y": -215
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "commaaccentcomb",
+"customData": {
+"com.glyphsapp.component.alignment": 1
+}
+}
+],
+"xAdvance": 269,
+"anchors": [
+{
+"name": "_bottom",
+"x": 169,
+"y": 0
+},
+{
+"name": "bottom",
+"x": 134,
+"y": -223
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 9
+}
+}

@@ -1,0 +1,76 @@
+{
+"name": "Nacute",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "N"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 264,
+"translateY": 204
+}
+}
+],
+"xAdvance": 698
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "N"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 242,
+"translateY": 204
+}
+}
+],
+"xAdvance": 650
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "N"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 253,
+"translateY": 204
+}
+}
+],
+"xAdvance": 676
+}
+}
+}
+}

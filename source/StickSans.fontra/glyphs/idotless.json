@@ -1,0 +1,169 @@
+{
+"name": "idotless",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 53,
+"y": 0
+},
+{
+"x": 204,
+"y": 0
+},
+{
+"x": 204,
+"y": 493
+},
+{
+"x": 53,
+"y": 493
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 258,
+"anchors": [
+{
+"name": "bottom",
+"x": 129,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 204,
+"y": 0
+},
+{
+"name": "top",
+"x": 129,
+"y": 493
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 90,
+"y": 0
+},
+{
+"x": 110,
+"y": 0
+},
+{
+"x": 110,
+"y": 493
+},
+{
+"x": 90,
+"y": 493
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 200,
+"anchors": [
+{
+"name": "bottom",
+"x": 100,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 110,
+"y": 0
+},
+{
+"name": "top",
+"x": 100,
+"y": 493
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 71,
+"y": 0
+},
+{
+"x": 155,
+"y": 0
+},
+{
+"x": 155,
+"y": 493
+},
+{
+"x": 71,
+"y": 493
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 226,
+"anchors": [
+{
+"name": "bottom",
+"x": 113,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 155,
+"y": 0
+},
+{
+"name": "top",
+"x": 113,
+"y": 493
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

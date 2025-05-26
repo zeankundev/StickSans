@@ -1,0 +1,898 @@
+{
+"name": "percent",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 89,
+"y": 0
+},
+{
+"x": 195,
+"y": 0
+},
+{
+"x": 631,
+"y": 697
+},
+{
+"x": 525,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 545,
+"y": -11,
+"smooth": true
+},
+{
+"x": 630,
+"y": -11,
+"type": "cubic"
+},
+{
+"x": 693,
+"y": 62,
+"type": "cubic"
+},
+{
+"x": 693,
+"y": 152,
+"smooth": true
+},
+{
+"x": 693,
+"y": 244,
+"type": "cubic"
+},
+{
+"x": 628,
+"y": 315,
+"type": "cubic"
+},
+{
+"x": 542,
+"y": 315,
+"smooth": true
+},
+{
+"x": 459,
+"y": 315,
+"type": "cubic"
+},
+{
+"x": 394,
+"y": 253,
+"type": "cubic"
+},
+{
+"x": 394,
+"y": 153,
+"smooth": true
+},
+{
+"x": 394,
+"y": 50,
+"type": "cubic"
+},
+{
+"x": 461,
+"y": -11,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 545,
+"y": 90,
+"smooth": true
+},
+{
+"x": 519,
+"y": 90,
+"type": "cubic"
+},
+{
+"x": 495,
+"y": 106,
+"type": "cubic"
+},
+{
+"x": 495,
+"y": 153,
+"smooth": true
+},
+{
+"x": 495,
+"y": 197,
+"type": "cubic"
+},
+{
+"x": 517,
+"y": 214,
+"type": "cubic"
+},
+{
+"x": 542,
+"y": 214,
+"smooth": true
+},
+{
+"x": 570,
+"y": 214,
+"type": "cubic"
+},
+{
+"x": 592,
+"y": 193,
+"type": "cubic"
+},
+{
+"x": 592,
+"y": 152,
+"smooth": true
+},
+{
+"x": 592,
+"y": 115,
+"type": "cubic"
+},
+{
+"x": 572,
+"y": 90,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 187,
+"y": 382,
+"smooth": true
+},
+{
+"x": 272,
+"y": 382,
+"type": "cubic"
+},
+{
+"x": 334,
+"y": 455,
+"type": "cubic"
+},
+{
+"x": 334,
+"y": 544,
+"smooth": true
+},
+{
+"x": 334,
+"y": 637,
+"type": "cubic"
+},
+{
+"x": 270,
+"y": 708,
+"type": "cubic"
+},
+{
+"x": 184,
+"y": 708,
+"smooth": true
+},
+{
+"x": 102,
+"y": 708,
+"type": "cubic"
+},
+{
+"x": 35,
+"y": 647,
+"type": "cubic"
+},
+{
+"x": 35,
+"y": 545,
+"smooth": true
+},
+{
+"x": 35,
+"y": 444,
+"type": "cubic"
+},
+{
+"x": 103,
+"y": 382,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 187,
+"y": 483,
+"smooth": true
+},
+{
+"x": 159,
+"y": 483,
+"type": "cubic"
+},
+{
+"x": 136,
+"y": 500,
+"type": "cubic"
+},
+{
+"x": 136,
+"y": 545,
+"smooth": true
+},
+{
+"x": 136,
+"y": 591,
+"type": "cubic"
+},
+{
+"x": 158,
+"y": 607,
+"type": "cubic"
+},
+{
+"x": 184,
+"y": 607,
+"smooth": true
+},
+{
+"x": 211,
+"y": 607,
+"type": "cubic"
+},
+{
+"x": 233,
+"y": 586,
+"type": "cubic"
+},
+{
+"x": 233,
+"y": 544,
+"smooth": true
+},
+{
+"x": 233,
+"y": 509,
+"type": "cubic"
+},
+{
+"x": 213,
+"y": 483,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 727
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 127,
+"y": 0
+},
+{
+"x": 146,
+"y": 0
+},
+{
+"x": 607,
+"y": 697
+},
+{
+"x": 588,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 527,
+"y": -5,
+"smooth": true
+},
+{
+"x": 613,
+"y": -5,
+"type": "cubic"
+},
+{
+"x": 684,
+"y": 66,
+"type": "cubic"
+},
+{
+"x": 684,
+"y": 153,
+"smooth": true
+},
+{
+"x": 684,
+"y": 239,
+"type": "cubic"
+},
+{
+"x": 613,
+"y": 310,
+"type": "cubic"
+},
+{
+"x": 526,
+"y": 310,
+"smooth": true
+},
+{
+"x": 440,
+"y": 310,
+"type": "cubic"
+},
+{
+"x": 369,
+"y": 240,
+"type": "cubic"
+},
+{
+"x": 369,
+"y": 153,
+"smooth": true
+},
+{
+"x": 369,
+"y": 65,
+"type": "cubic"
+},
+{
+"x": 440,
+"y": -5,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 527,
+"y": 11,
+"smooth": true
+},
+{
+"x": 449,
+"y": 11,
+"type": "cubic"
+},
+{
+"x": 385,
+"y": 74,
+"type": "cubic"
+},
+{
+"x": 385,
+"y": 153,
+"smooth": true
+},
+{
+"x": 385,
+"y": 231,
+"type": "cubic"
+},
+{
+"x": 448,
+"y": 294,
+"type": "cubic"
+},
+{
+"x": 526,
+"y": 294,
+"smooth": true
+},
+{
+"x": 604,
+"y": 294,
+"type": "cubic"
+},
+{
+"x": 667,
+"y": 231,
+"type": "cubic"
+},
+{
+"x": 667,
+"y": 153,
+"smooth": true
+},
+{
+"x": 667,
+"y": 74,
+"type": "cubic"
+},
+{
+"x": 604,
+"y": 11,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 209,
+"y": 387,
+"smooth": true
+},
+{
+"x": 295,
+"y": 387,
+"type": "cubic"
+},
+{
+"x": 366,
+"y": 458,
+"type": "cubic"
+},
+{
+"x": 366,
+"y": 544,
+"smooth": true
+},
+{
+"x": 366,
+"y": 631,
+"type": "cubic"
+},
+{
+"x": 295,
+"y": 702,
+"type": "cubic"
+},
+{
+"x": 208,
+"y": 702,
+"smooth": true
+},
+{
+"x": 122,
+"y": 702,
+"type": "cubic"
+},
+{
+"x": 51,
+"y": 632,
+"type": "cubic"
+},
+{
+"x": 51,
+"y": 544,
+"smooth": true
+},
+{
+"x": 51,
+"y": 457,
+"type": "cubic"
+},
+{
+"x": 122,
+"y": 387,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 209,
+"y": 403,
+"smooth": true
+},
+{
+"x": 130,
+"y": 403,
+"type": "cubic"
+},
+{
+"x": 67,
+"y": 466,
+"type": "cubic"
+},
+{
+"x": 67,
+"y": 544,
+"smooth": true
+},
+{
+"x": 67,
+"y": 623,
+"type": "cubic"
+},
+{
+"x": 130,
+"y": 686,
+"type": "cubic"
+},
+{
+"x": 208,
+"y": 686,
+"smooth": true
+},
+{
+"x": 286,
+"y": 686,
+"type": "cubic"
+},
+{
+"x": 349,
+"y": 623,
+"type": "cubic"
+},
+{
+"x": 349,
+"y": 544,
+"smooth": true
+},
+{
+"x": 349,
+"y": 466,
+"type": "cubic"
+},
+{
+"x": 286,
+"y": 403,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 735
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 116,
+"y": 0
+},
+{
+"x": 178,
+"y": 0
+},
+{
+"x": 627,
+"y": 697
+},
+{
+"x": 565,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 543,
+"y": -8,
+"smooth": true
+},
+{
+"x": 629,
+"y": -8,
+"type": "cubic"
+},
+{
+"x": 696,
+"y": 65,
+"type": "cubic"
+},
+{
+"x": 696,
+"y": 153,
+"smooth": true
+},
+{
+"x": 696,
+"y": 242,
+"type": "cubic"
+},
+{
+"x": 628,
+"y": 313,
+"type": "cubic"
+},
+{
+"x": 542,
+"y": 313,
+"smooth": true
+},
+{
+"x": 457,
+"y": 313,
+"type": "cubic"
+},
+{
+"x": 389,
+"y": 246,
+"type": "cubic"
+},
+{
+"x": 389,
+"y": 153,
+"smooth": true
+},
+{
+"x": 389,
+"y": 58,
+"type": "cubic"
+},
+{
+"x": 458,
+"y": -8,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 543,
+"y": 50,
+"smooth": true
+},
+{
+"x": 492,
+"y": 50,
+"type": "cubic"
+},
+{
+"x": 447,
+"y": 90,
+"type": "cubic"
+},
+{
+"x": 447,
+"y": 153,
+"smooth": true
+},
+{
+"x": 447,
+"y": 214,
+"type": "cubic"
+},
+{
+"x": 490,
+"y": 255,
+"type": "cubic"
+},
+{
+"x": 542,
+"y": 255,
+"smooth": true
+},
+{
+"x": 595,
+"y": 255,
+"type": "cubic"
+},
+{
+"x": 638,
+"y": 212,
+"type": "cubic"
+},
+{
+"x": 638,
+"y": 153,
+"smooth": true
+},
+{
+"x": 638,
+"y": 95,
+"type": "cubic"
+},
+{
+"x": 596,
+"y": 50,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 206,
+"y": 385,
+"smooth": true
+},
+{
+"x": 291,
+"y": 385,
+"type": "cubic"
+},
+{
+"x": 358,
+"y": 457,
+"type": "cubic"
+},
+{
+"x": 358,
+"y": 544,
+"smooth": true
+},
+{
+"x": 358,
+"y": 634,
+"type": "cubic"
+},
+{
+"x": 290,
+"y": 705,
+"type": "cubic"
+},
+{
+"x": 204,
+"y": 705,
+"smooth": true
+},
+{
+"x": 120,
+"y": 705,
+"type": "cubic"
+},
+{
+"x": 51,
+"y": 639,
+"type": "cubic"
+},
+{
+"x": 51,
+"y": 544,
+"smooth": true
+},
+{
+"x": 51,
+"y": 452,
+"type": "cubic"
+},
+{
+"x": 120,
+"y": 385,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 206,
+"y": 443,
+"smooth": true
+},
+{
+"x": 152,
+"y": 443,
+"type": "cubic"
+},
+{
+"x": 109,
+"y": 483,
+"type": "cubic"
+},
+{
+"x": 109,
+"y": 544,
+"smooth": true
+},
+{
+"x": 109,
+"y": 607,
+"type": "cubic"
+},
+{
+"x": 152,
+"y": 647,
+"type": "cubic"
+},
+{
+"x": 204,
+"y": 647,
+"smooth": true
+},
+{
+"x": 256,
+"y": 647,
+"type": "cubic"
+},
+{
+"x": 299,
+"y": 605,
+"type": "cubic"
+},
+{
+"x": 299,
+"y": 544,
+"smooth": true
+},
+{
+"x": 299,
+"y": 488,
+"type": "cubic"
+},
+{
+"x": 258,
+"y": 443,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 747
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

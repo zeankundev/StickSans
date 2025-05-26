@@ -1,0 +1,184 @@
+{
+"name": "l",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 201,
+"y": 0
+},
+{
+"x": 201,
+"y": 697
+},
+{
+"x": 51,
+"y": 697
+},
+{
+"x": 51,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 252,
+"anchors": [
+{
+"name": "bottom",
+"x": 139,
+"y": 0
+},
+{
+"name": "center",
+"x": 129,
+"y": 343
+},
+{
+"name": "top",
+"x": 126,
+"y": 697
+},
+{
+"name": "topright",
+"x": 344,
+"y": 493
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 108,
+"y": 0
+},
+{
+"x": 108,
+"y": 697
+},
+{
+"x": 88,
+"y": 697
+},
+{
+"x": 88,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 196,
+"anchors": [
+{
+"name": "bottom",
+"x": 138,
+"y": 0
+},
+{
+"name": "center",
+"x": 119,
+"y": 412
+},
+{
+"name": "top",
+"x": 98,
+"y": 697
+},
+{
+"name": "topright",
+"x": 223,
+"y": 493
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 154,
+"y": 0
+},
+{
+"x": 154,
+"y": 697
+},
+{
+"x": 70,
+"y": 697
+},
+{
+"x": 70,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 224,
+"anchors": [
+{
+"name": "bottom",
+"x": 139,
+"y": 0
+},
+{
+"name": "center",
+"x": 130,
+"y": 378
+},
+{
+"name": "top",
+"x": 112,
+"y": 697
+},
+{
+"name": "topright",
+"x": 283,
+"y": 493
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

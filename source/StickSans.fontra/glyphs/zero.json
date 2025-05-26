@@ -1,0 +1,445 @@
+{
+"name": "zero",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 280,
+"y": -10,
+"smooth": true
+},
+{
+"x": 513,
+"y": -10,
+"type": "cubic"
+},
+{
+"x": 533,
+"y": 212,
+"type": "cubic"
+},
+{
+"x": 533,
+"y": 353,
+"smooth": true
+},
+{
+"x": 533,
+"y": 484,
+"type": "cubic"
+},
+{
+"x": 516,
+"y": 709,
+"type": "cubic"
+},
+{
+"x": 280,
+"y": 709,
+"smooth": true
+},
+{
+"x": 45,
+"y": 709,
+"type": "cubic"
+},
+{
+"x": 27,
+"y": 486,
+"type": "cubic"
+},
+{
+"x": 27,
+"y": 353,
+"smooth": true
+},
+{
+"x": 27,
+"y": 212,
+"type": "cubic"
+},
+{
+"x": 47,
+"y": -10,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 280,
+"y": 134,
+"smooth": true
+},
+{
+"x": 192,
+"y": 134,
+"type": "cubic"
+},
+{
+"x": 181,
+"y": 235,
+"type": "cubic"
+},
+{
+"x": 181,
+"y": 348,
+"smooth": true
+},
+{
+"x": 181,
+"y": 466,
+"type": "cubic"
+},
+{
+"x": 192,
+"y": 564,
+"type": "cubic"
+},
+{
+"x": 280,
+"y": 564,
+"smooth": true
+},
+{
+"x": 368,
+"y": 564,
+"type": "cubic"
+},
+{
+"x": 379,
+"y": 466,
+"type": "cubic"
+},
+{
+"x": 379,
+"y": 348,
+"smooth": true
+},
+{
+"x": 379,
+"y": 235,
+"type": "cubic"
+},
+{
+"x": 368,
+"y": 134,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 560
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 284,
+"y": -5,
+"smooth": true
+},
+{
+"x": 419,
+"y": -5,
+"type": "cubic"
+},
+{
+"x": 482,
+"y": 144,
+"type": "cubic"
+},
+{
+"x": 482,
+"y": 347,
+"smooth": true
+},
+{
+"x": 482,
+"y": 552,
+"type": "cubic"
+},
+{
+"x": 418,
+"y": 703,
+"type": "cubic"
+},
+{
+"x": 278,
+"y": 703,
+"smooth": true
+},
+{
+"x": 125,
+"y": 703,
+"type": "cubic"
+},
+{
+"x": 79,
+"y": 530,
+"type": "cubic"
+},
+{
+"x": 79,
+"y": 348,
+"smooth": true
+},
+{
+"x": 79,
+"y": 169,
+"type": "cubic"
+},
+{
+"x": 126,
+"y": -5,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 284,
+"y": 14,
+"smooth": true
+},
+{
+"x": 145,
+"y": 14,
+"type": "cubic"
+},
+{
+"x": 99,
+"y": 171,
+"type": "cubic"
+},
+{
+"x": 99,
+"y": 348,
+"smooth": true
+},
+{
+"x": 99,
+"y": 528,
+"type": "cubic"
+},
+{
+"x": 144,
+"y": 684,
+"type": "cubic"
+},
+{
+"x": 278,
+"y": 684,
+"smooth": true
+},
+{
+"x": 401,
+"y": 684,
+"type": "cubic"
+},
+{
+"x": 462,
+"y": 549,
+"type": "cubic"
+},
+{
+"x": 462,
+"y": 346,
+"smooth": true
+},
+{
+"x": 462,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 402,
+"y": 14,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 560
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 282,
+"y": -8,
+"smooth": true
+},
+{
+"x": 465,
+"y": -8,
+"type": "cubic"
+},
+{
+"x": 507,
+"y": 178,
+"type": "cubic"
+},
+{
+"x": 507,
+"y": 350,
+"smooth": true
+},
+{
+"x": 507,
+"y": 519,
+"type": "cubic"
+},
+{
+"x": 466,
+"y": 706,
+"type": "cubic"
+},
+{
+"x": 279,
+"y": 706,
+"smooth": true
+},
+{
+"x": 85,
+"y": 706,
+"type": "cubic"
+},
+{
+"x": 53,
+"y": 508,
+"type": "cubic"
+},
+{
+"x": 53,
+"y": 351,
+"smooth": true
+},
+{
+"x": 53,
+"y": 190,
+"type": "cubic"
+},
+{
+"x": 87,
+"y": -8,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 282,
+"y": 74,
+"smooth": true
+},
+{
+"x": 168,
+"y": 74,
+"type": "cubic"
+},
+{
+"x": 140,
+"y": 204,
+"type": "cubic"
+},
+{
+"x": 140,
+"y": 348,
+"smooth": true
+},
+{
+"x": 140,
+"y": 498,
+"type": "cubic"
+},
+{
+"x": 168,
+"y": 625,
+"type": "cubic"
+},
+{
+"x": 279,
+"y": 625,
+"smooth": true
+},
+{
+"x": 385,
+"y": 625,
+"type": "cubic"
+},
+{
+"x": 421,
+"y": 508,
+"type": "cubic"
+},
+{
+"x": 421,
+"y": 347,
+"smooth": true
+},
+{
+"x": 421,
+"y": 193,
+"type": "cubic"
+},
+{
+"x": 386,
+"y": 74,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 560
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

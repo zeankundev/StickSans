@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="244"/>
+  <anchor x="122" y="493" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="49" y="484" type="line"/>
+      <point x="100" y="484" type="line"/>
+      <point x="195" y="697" type="line"/>
+      <point x="106" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

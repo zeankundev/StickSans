@@ -1,0 +1,118 @@
+{
+"name": "acute",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 31,
+"y": 554
+},
+{
+"x": 140,
+"y": 554
+},
+{
+"x": 306,
+"y": 697
+},
+{
+"x": 144,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 337
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 66,
+"y": 558
+},
+{
+"x": 85,
+"y": 558
+},
+{
+"x": 193,
+"y": 697
+},
+{
+"x": 171,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 259
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 49,
+"y": 556
+},
+{
+"x": 112,
+"y": 556
+},
+{
+"x": 249,
+"y": 697
+},
+{
+"x": 158,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 298
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

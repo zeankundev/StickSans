@@ -1,0 +1,73 @@
+{
+"name": "Adotbelow",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "A"
+},
+{
+"name": "dotbelowcomb",
+"transformation": {
+"translateX": 242
+}
+}
+],
+"xAdvance": 698
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "A"
+},
+{
+"name": "dotbelowcomb",
+"transformation": {
+"translateX": 212
+}
+}
+],
+"xAdvance": 584
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "A"
+},
+{
+"name": "dotbelowcomb",
+"transformation": {
+"translateX": 220
+}
+}
+],
+"xAdvance": 637
+}
+}
+}
+}

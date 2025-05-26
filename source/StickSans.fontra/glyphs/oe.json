@@ -1,0 +1,130 @@
+{
+"name": "oe",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "e",
+"transformation": {
+"translateX": 355
+},
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+},
+{
+"name": "o",
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+}
+],
+"xAdvance": 897,
+"anchors": [
+{
+"name": "bottom",
+"x": 450,
+"y": 0
+},
+{
+"name": "top",
+"x": 450,
+"y": 493
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "e",
+"transformation": {
+"translateX": 437
+},
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+},
+{
+"name": "o",
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+}
+],
+"xAdvance": 974,
+"anchors": [
+{
+"name": "bottom",
+"x": 485,
+"y": 0
+},
+{
+"name": "top",
+"x": 485,
+"y": 493
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "e",
+"transformation": {
+"translateX": 393
+},
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+},
+{
+"name": "o",
+"customData": {
+"com.glyphsapp.component.alignment": -1
+}
+}
+],
+"xAdvance": 933,
+"anchors": [
+{
+"name": "bottom",
+"x": 467,
+"y": 0
+},
+{
+"name": "top",
+"x": 467,
+"y": 493
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

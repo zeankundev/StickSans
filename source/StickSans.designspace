@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="StickSans_Thin.ufo" name="F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E" familyname="Stick Sans" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="StickSans_Regular.ufo" name="m003" familyname="Stick Sans" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="StickSans_Black.ufo" name="957254E3-B7AD-4837-9092-D4428001DE8E" familyname="Stick Sans" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

@@ -1,0 +1,244 @@
+{
+"name": "horncomb",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 31,
+"y": 491
+},
+{
+"x": 152,
+"y": 491,
+"type": "cubic"
+},
+{
+"x": 198,
+"y": 574,
+"type": "cubic"
+},
+{
+"x": 198,
+"y": 663,
+"smooth": true
+},
+{
+"x": 198,
+"y": 697
+},
+{
+"x": 94,
+"y": 697
+},
+{
+"x": 94,
+"y": 672,
+"smooth": true
+},
+{
+"x": 94,
+"y": 620,
+"type": "cubic"
+},
+{
+"x": 80,
+"y": 589,
+"type": "cubic"
+},
+{
+"x": 31,
+"y": 589
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 225,
+"anchors": [
+{
+"name": "_topright",
+"x": 114,
+"y": 493
+},
+{
+"name": "topright",
+"x": 114,
+"y": 493
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 66,
+"y": 500
+},
+{
+"x": 149,
+"y": 500,
+"type": "cubic"
+},
+{
+"x": 187,
+"y": 548,
+"type": "cubic"
+},
+{
+"x": 187,
+"y": 641,
+"smooth": true
+},
+{
+"x": 187,
+"y": 697
+},
+{
+"x": 171,
+"y": 697
+},
+{
+"x": 171,
+"y": 641,
+"smooth": true
+},
+{
+"x": 171,
+"y": 557,
+"type": "cubic"
+},
+{
+"x": 138,
+"y": 516,
+"type": "cubic"
+},
+{
+"x": 66,
+"y": 516
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 219,
+"anchors": [
+{
+"name": "_topright",
+"x": 127,
+"y": 493
+},
+{
+"name": "topright",
+"x": 127,
+"y": 493
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 49,
+"y": 496
+},
+{
+"x": 150,
+"y": 496,
+"type": "cubic"
+},
+{
+"x": 193,
+"y": 560,
+"type": "cubic"
+},
+{
+"x": 193,
+"y": 652,
+"smooth": true
+},
+{
+"x": 193,
+"y": 697
+},
+{
+"x": 133,
+"y": 697
+},
+{
+"x": 133,
+"y": 657,
+"smooth": true
+},
+{
+"x": 133,
+"y": 589,
+"type": "cubic"
+},
+{
+"x": 109,
+"y": 552,
+"type": "cubic"
+},
+{
+"x": 49,
+"y": 552
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 225,
+"anchors": [
+{
+"name": "_topright",
+"x": 121,
+"y": 493
+},
+{
+"name": "topright",
+"x": 121,
+"y": 493
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

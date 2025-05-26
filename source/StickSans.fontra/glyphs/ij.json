@@ -1,0 +1,243 @@
+{
+"name": "ij",
+"sources": [
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"locationBase": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E"
+},
+{
+"name": "",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"locationBase": "957254E3-B7AD-4837-9092-D4428001DE8E"
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "idotless"
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 14
+}
+},
+{
+"name": "jdotless",
+"transformation": {
+"translateX": 226
+}
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 241
+}
+}
+],
+"xAdvance": 452,
+"guidelines": [
+{
+"name": "max undershit reg",
+"x": 277,
+"y": -212
+},
+{
+"name": "min bendable contour",
+"x": 233
+},
+{
+"name": "max bendable contour",
+"x": 233,
+"y": -8
+},
+{
+"name": "center x",
+"x": 71,
+"y": -479
+},
+{
+"name": "center y",
+"x": 228,
+"y": -327,
+"angle": 90
+},
+{
+"x": 63,
+"y": 582
+},
+{
+"x": 63,
+"y": 697,
+"angle": 90
+},
+{
+"x": 290,
+"y": 697,
+"angle": 90
+},
+{
+"x": 163,
+"y": 697,
+"angle": 90
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "idotless"
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 14
+}
+},
+{
+"name": "jdotless",
+"transformation": {
+"translateX": 226
+}
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 241
+}
+}
+],
+"xAdvance": 452,
+"guidelines": [
+{
+"name": "max undershit reg",
+"x": 277,
+"y": -212
+},
+{
+"name": "min bendable contour",
+"x": 233
+},
+{
+"name": "max bendable contour",
+"x": 233,
+"y": -8
+},
+{
+"name": "center x",
+"x": 71,
+"y": -479
+},
+{
+"name": "center y",
+"x": 228,
+"y": -327,
+"angle": 90
+},
+{
+"x": 63,
+"y": 582
+},
+{
+"x": 63,
+"y": 697,
+"angle": 90
+},
+{
+"x": 290,
+"y": 697,
+"angle": 90
+},
+{
+"x": 163,
+"y": 697,
+"angle": 90
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "idotless"
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 14
+}
+},
+{
+"name": "jdotless",
+"transformation": {
+"translateX": 226
+}
+},
+{
+"name": "dotaccentcomb",
+"transformation": {
+"translateX": 241
+}
+}
+],
+"xAdvance": 452,
+"guidelines": [
+{
+"name": "max undershit reg",
+"x": 277,
+"y": -212
+},
+{
+"name": "min bendable contour",
+"x": 233
+},
+{
+"name": "max bendable contour",
+"x": 233,
+"y": -8
+},
+{
+"name": "center x",
+"x": 71,
+"y": -479
+},
+{
+"name": "center y",
+"x": 228,
+"y": -327,
+"angle": 90
+},
+{
+"x": 63,
+"y": 582
+},
+{
+"x": 63,
+"y": 697,
+"angle": 90
+},
+{
+"x": 290,
+"y": 697,
+"angle": 90
+},
+{
+"x": 163,
+"y": 697,
+"angle": 90
+}
+]
+}
+}
+}
+}

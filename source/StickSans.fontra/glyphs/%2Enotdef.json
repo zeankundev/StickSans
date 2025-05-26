@@ -1,0 +1,178 @@
+{
+"name": ".notdef",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 454,
+"y": 0
+},
+{
+"x": 454,
+"y": 471
+},
+{
+"x": 50,
+"y": 471
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 100,
+"y": 51
+},
+{
+"x": 100,
+"y": 420
+},
+{
+"x": 403,
+"y": 420
+},
+{
+"x": 403,
+"y": 51
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 504
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 463,
+"y": 0
+},
+{
+"x": 463,
+"y": 476
+},
+{
+"x": 50,
+"y": 476
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 63,
+"y": 13
+},
+{
+"x": 63,
+"y": 463
+},
+{
+"x": 451,
+"y": 463
+},
+{
+"x": 451,
+"y": 13
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 513
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 459,
+"y": 0
+},
+{
+"x": 459,
+"y": 474
+},
+{
+"x": 50,
+"y": 474
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 81,
+"y": 32
+},
+{
+"x": 81,
+"y": 442
+},
+{
+"x": 428,
+"y": 442
+},
+{
+"x": 428,
+"y": 32
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 509
+}
+}
+}
+}

@@ -1,0 +1,76 @@
+{
+"name": "questiondown",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "question",
+"transformation": {
+"translateX": 486,
+"translateY": 493,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 464
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "question",
+"transformation": {
+"translateX": 425,
+"translateY": 493,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 252
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "question",
+"transformation": {
+"translateX": 495,
+"translateY": 493,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 340
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

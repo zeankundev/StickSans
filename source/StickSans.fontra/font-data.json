@@ -1,0 +1,112 @@
+{
+"fontInfo": {
+"familyName": "Stick Sans",
+"versionMajor": 3,
+"versionMinor": 14,
+"copyright": "Copyright 2025 zeankun & The Hanken Grotesk Project Authors",
+"designer": "Alfredo Marco Pradil & Zean Isnomo",
+"designerURL": "",
+"manufacturer": "zeankun & Hanken Design Co.",
+"manufacturerURL": "https://hanken.co",
+"licenseDescription": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+"vendorID": "HDCO"
+},
+"axes": {
+"axes": [
+{
+"name": "Weight",
+"label": "Weight",
+"tag": "wght",
+"minValue": 100,
+"defaultValue": 400,
+"maxValue": 900
+}
+]
+},
+"sources": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"name": "Black",
+"location": {
+"Weight": 900
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 697,
+"zone": 18
+},
+"capHeight": {
+"value": 697,
+"zone": 18
+},
+"xHeight": {
+"value": 493,
+"zone": 12
+},
+"baseline": {
+"value": 0,
+"zone": -18
+},
+"descender": {
+"value": -303,
+"zone": -16
+}
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"name": "Thin",
+"location": {
+"Weight": 100
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 697,
+"zone": 6
+},
+"capHeight": {
+"value": 697,
+"zone": 6
+},
+"xHeight": {
+"value": 493,
+"zone": 6
+},
+"baseline": {
+"value": 0,
+"zone": -6
+},
+"descender": {
+"value": -303,
+"zone": -12
+}
+}
+},
+"m003": {
+"name": "Regular",
+"location": {
+"Weight": 400
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 697,
+"zone": 12
+},
+"capHeight": {
+"value": 697,
+"zone": 12
+},
+"xHeight": {
+"value": 493,
+"zone": 8
+},
+"baseline": {
+"value": 0,
+"zone": -8
+},
+"descender": {
+"value": -303,
+"zone": -12
+}
+}
+}
+}
+}

@@ -1,0 +1,115 @@
+{
+"name": "fraction",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": -175,
+"y": 0
+},
+{
+"x": -69,
+"y": 0
+},
+{
+"x": 368,
+"y": 697
+},
+{
+"x": 262,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 193
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": -158,
+"y": 0
+},
+{
+"x": -139,
+"y": 0
+},
+{
+"x": 229,
+"y": 697
+},
+{
+"x": 210,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 71
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": -175,
+"y": 0
+},
+{
+"x": -114,
+"y": 0
+},
+{
+"x": 288,
+"y": 697
+},
+{
+"x": 227,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 113
+}
+}
+}
+}

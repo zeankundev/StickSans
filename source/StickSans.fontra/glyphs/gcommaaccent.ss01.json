@@ -1,0 +1,73 @@
+{
+"name": "gcommaaccent.ss01",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "g.ss01"
+},
+{
+"name": "commaturnedabovecomb",
+"transformation": {
+"translateX": 147
+}
+}
+],
+"xAdvance": 567
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "g.ss01"
+},
+{
+"name": "commaturnedabovecomb",
+"transformation": {
+"translateX": 180
+}
+}
+],
+"xAdvance": 606
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "g.ss01"
+},
+{
+"name": "commaturnedabovecomb",
+"transformation": {
+"translateX": 164
+}
+}
+],
+"xAdvance": 588
+}
+}
+}
+}

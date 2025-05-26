@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshortcomb" format="2">
+  <advance width="320"/>
+  <unicode hex="0337"/>
+  <anchor x="160" y="372" name="_center"/>
+  <outline>
+    <contour>
+      <point x="49" y="240" type="line"/>
+      <point x="271" y="417" type="line"/>
+      <point x="271" y="503" type="line"/>
+      <point x="49" y="327" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb" format="2">
+  <advance width="740"/>
+  <unicode hex="0336"/>
+  <anchor x="369" y="282" name="_center"/>
+  <outline>
+    <contour>
+      <point x="49" y="256" type="line"/>
+      <point x="691" y="256" type="line"/>
+      <point x="691" y="307" type="line"/>
+      <point x="49" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

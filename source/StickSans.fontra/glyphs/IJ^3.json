@@ -1,0 +1,85 @@
+{
+"name": "IJ",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "I",
+"transformation": {
+"translateY": 313.48121645796056,
+"scaleY": 0.55024215716218
+}
+},
+{
+"name": "J",
+"transformation": {
+"translateX": 42
+}
+}
+],
+"xAdvance": 604
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "I",
+"transformation": {
+"translateY": 259.7704251084256,
+"scaleY": 0.6273021160567781
+}
+},
+{
+"name": "J",
+"transformation": {
+"translateX": 56
+}
+}
+],
+"xAdvance": 603
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "I",
+"transformation": {
+"translateY": 294.2462697838007,
+"scaleY": 0.5778389242700134
+}
+},
+{
+"name": "J",
+"transformation": {
+"translateX": 49
+}
+}
+],
+"xAdvance": 606
+}
+}
+}
+}

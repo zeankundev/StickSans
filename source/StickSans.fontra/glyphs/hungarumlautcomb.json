@@ -1,0 +1,217 @@
+{
+"name": "hungarumlautcomb",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 236,
+"y": 527
+},
+{
+"x": 345,
+"y": 527
+},
+{
+"x": 509,
+"y": 697
+},
+{
+"x": 349,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 31,
+"y": 527
+},
+{
+"x": 140,
+"y": 527
+},
+{
+"x": 279,
+"y": 697
+},
+{
+"x": 144,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 540,
+"anchors": [
+{
+"name": "_top",
+"x": 188,
+"y": 493
+},
+{
+"name": "top",
+"x": 271,
+"y": 697
+}
+]
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 215,
+"y": 556
+},
+{
+"x": 234,
+"y": 556
+},
+{
+"x": 342,
+"y": 697
+},
+{
+"x": 320,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 66,
+"y": 556
+},
+{
+"x": 85,
+"y": 556
+},
+{
+"x": 191,
+"y": 697
+},
+{
+"x": 171,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 408,
+"anchors": [
+{
+"name": "_top",
+"x": 150,
+"y": 493
+},
+{
+"name": "top",
+"x": 205,
+"y": 697
+}
+]
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 225,
+"y": 542
+},
+{
+"x": 289,
+"y": 542
+},
+{
+"x": 425,
+"y": 697
+},
+{
+"x": 335,
+"y": 697
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 49,
+"y": 542
+},
+{
+"x": 112,
+"y": 542
+},
+{
+"x": 235,
+"y": 697
+},
+{
+"x": 158,
+"y": 697
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 474,
+"anchors": [
+{
+"name": "_top",
+"x": 169,
+"y": 493
+},
+{
+"name": "top",
+"x": 238,
+"y": 697
+}
+]
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}

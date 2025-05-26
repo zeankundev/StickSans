@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb.case" format="2">
+  <advance width="426"/>
+  <guideline x="428" y="784" angle="0" name=""/>
+  <guideline x="212" y="748" angle="0" name=""/>
+  <anchor x="200" y="697" name="_top"/>
+  <anchor x="205" y="982" name="top"/>
+  <outline>
+    <contour>
+      <point x="49" y="744" type="line"/>
+      <point x="120" y="744" type="line"/>
+      <point x="200" y="823" type="line"/>
+      <point x="281" y="744" type="line"/>
+      <point x="351" y="744" type="line"/>
+      <point x="200" y="886" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="847" type="line"/>
+      <point x="377" y="847" type="line"/>
+      <point x="305" y="982" type="line"/>
+      <point x="235" y="982" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

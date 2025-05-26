@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="560"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="236" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="463" type="line"/>
+      <point x="528" y="463" type="line"/>
+      <point x="528" y="535" type="line"/>
+      <point x="32" y="535" type="line"/>
+      <point x="32" y="463" type="line"/>
+      <point x="236" y="463" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="625" type="line"/>
+      <point x="528" y="625" type="line"/>
+      <point x="528" y="696" type="line"/>
+      <point x="32" y="696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

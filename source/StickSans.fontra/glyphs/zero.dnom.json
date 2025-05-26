@@ -1,0 +1,445 @@
+{
+"name": "zero.dnom",
+"sources": [
+{
+"name": "Thin",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"location": {
+"Weight": 100
+}
+},
+{
+"name": "Regular",
+"layerName": "m003"
+},
+{
+"name": "Black",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"location": {
+"Weight": 900
+}
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 182,
+"y": -6,
+"smooth": true
+},
+{
+"x": 329,
+"y": -6,
+"type": "cubic"
+},
+{
+"x": 338,
+"y": 132,
+"type": "cubic"
+},
+{
+"x": 338,
+"y": 212,
+"smooth": true
+},
+{
+"x": 338,
+"y": 284,
+"type": "cubic"
+},
+{
+"x": 332,
+"y": 425,
+"type": "cubic"
+},
+{
+"x": 183,
+"y": 425,
+"smooth": true
+},
+{
+"x": 36,
+"y": 425,
+"type": "cubic"
+},
+{
+"x": 27,
+"y": 289,
+"type": "cubic"
+},
+{
+"x": 27,
+"y": 212,
+"smooth": true
+},
+{
+"x": 27,
+"y": 130,
+"type": "cubic"
+},
+{
+"x": 37,
+"y": -6,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 182,
+"y": 88,
+"smooth": true
+},
+{
+"x": 133,
+"y": 88,
+"type": "cubic"
+},
+{
+"x": 130,
+"y": 146,
+"type": "cubic"
+},
+{
+"x": 130,
+"y": 209,
+"smooth": true
+},
+{
+"x": 130,
+"y": 275,
+"type": "cubic"
+},
+{
+"x": 133,
+"y": 329,
+"type": "cubic"
+},
+{
+"x": 183,
+"y": 329,
+"smooth": true
+},
+{
+"x": 233,
+"y": 329,
+"type": "cubic"
+},
+{
+"x": 237,
+"y": 275,
+"type": "cubic"
+},
+{
+"x": 237,
+"y": 209,
+"smooth": true
+},
+{
+"x": 237,
+"y": 147,
+"type": "cubic"
+},
+{
+"x": 233,
+"y": 88,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 365
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 167,
+"y": -4,
+"smooth": true
+},
+{
+"x": 253,
+"y": -4,
+"type": "cubic"
+},
+{
+"x": 289,
+"y": 92,
+"type": "cubic"
+},
+{
+"x": 289,
+"y": 209,
+"smooth": true
+},
+{
+"x": 289,
+"y": 327,
+"type": "cubic"
+},
+{
+"x": 252,
+"y": 423,
+"type": "cubic"
+},
+{
+"x": 163,
+"y": 423,
+"smooth": true
+},
+{
+"x": 68,
+"y": 423,
+"type": "cubic"
+},
+{
+"x": 42,
+"y": 312,
+"type": "cubic"
+},
+{
+"x": 42,
+"y": 210,
+"smooth": true
+},
+{
+"x": 42,
+"y": 107,
+"type": "cubic"
+},
+{
+"x": 69,
+"y": -4,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 167,
+"y": 14,
+"smooth": true
+},
+{
+"x": 86,
+"y": 14,
+"type": "cubic"
+},
+{
+"x": 59,
+"y": 107,
+"type": "cubic"
+},
+{
+"x": 59,
+"y": 209,
+"smooth": true
+},
+{
+"x": 59,
+"y": 312,
+"type": "cubic"
+},
+{
+"x": 86,
+"y": 405,
+"type": "cubic"
+},
+{
+"x": 163,
+"y": 405,
+"smooth": true
+},
+{
+"x": 236,
+"y": 405,
+"type": "cubic"
+},
+{
+"x": 270,
+"y": 325,
+"type": "cubic"
+},
+{
+"x": 270,
+"y": 208,
+"smooth": true
+},
+{
+"x": 270,
+"y": 95,
+"type": "cubic"
+},
+{
+"x": 237,
+"y": 14,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 331
+}
+},
+"m003": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 179,
+"y": -5,
+"smooth": true
+},
+{
+"x": 296,
+"y": -5,
+"type": "cubic"
+},
+{
+"x": 317,
+"y": 112,
+"type": "cubic"
+},
+{
+"x": 317,
+"y": 210,
+"smooth": true
+},
+{
+"x": 317,
+"y": 307,
+"type": "cubic"
+},
+{
+"x": 296,
+"y": 424,
+"type": "cubic"
+},
+{
+"x": 178,
+"y": 424,
+"smooth": true
+},
+{
+"x": 57,
+"y": 424,
+"type": "cubic"
+},
+{
+"x": 39,
+"y": 302,
+"type": "cubic"
+},
+{
+"x": 39,
+"y": 211,
+"smooth": true
+},
+{
+"x": 39,
+"y": 117,
+"type": "cubic"
+},
+{
+"x": 58,
+"y": -5,
+"type": "cubic"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 179,
+"y": 51,
+"smooth": true
+},
+{
+"x": 114,
+"y": 51,
+"type": "cubic"
+},
+{
+"x": 99,
+"y": 126,
+"type": "cubic"
+},
+{
+"x": 99,
+"y": 209,
+"smooth": true
+},
+{
+"x": 99,
+"y": 295,
+"type": "cubic"
+},
+{
+"x": 114,
+"y": 368,
+"type": "cubic"
+},
+{
+"x": 178,
+"y": 368,
+"smooth": true
+},
+{
+"x": 239,
+"y": 368,
+"type": "cubic"
+},
+{
+"x": 258,
+"y": 300,
+"type": "cubic"
+},
+{
+"x": 258,
+"y": 208,
+"smooth": true
+},
+{
+"x": 258,
+"y": 121,
+"type": "cubic"
+},
+{
+"x": 240,
+"y": 51,
+"type": "cubic"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 356
+}
+}
+},
+"customData": {
+"com.glyphsapp.glyph-color": 1
+}
+}
