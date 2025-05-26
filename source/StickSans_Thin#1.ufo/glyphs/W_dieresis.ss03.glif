@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Wdieresis.ss03" format="2">
-  <advance width="925"/>
-  <outline>
-    <component base="W"/>
-    <component base="dieresiscomb.ss03" xOffset="274" yOffset="204"/>
-  </outline>
-</glyph>

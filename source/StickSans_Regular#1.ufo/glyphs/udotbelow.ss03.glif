@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="udotbelow.ss03" format="2">
-  <advance width="547"/>
-  <outline>
-    <component base="u"/>
-    <component base="dotbelowcomb.ss03" xOffset="172"/>
-  </outline>
-</glyph>

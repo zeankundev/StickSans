@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ijacute" format="2">
-  <advance width="400"/>
-  <guideline x="237" y="-209" angle="0" name="undershit"/>
-  <outline>
-    <component base="iacute"/>
-    <component base="jacute" xOffset="200"/>
-  </outline>
-</glyph>

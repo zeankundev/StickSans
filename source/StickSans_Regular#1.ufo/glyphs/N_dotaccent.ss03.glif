@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ndotaccent.ss03" format="2">
-  <advance width="676"/>
-  <outline>
-    <component base="N"/>
-    <component base="dotaccentcomb.ss03" xOffset="231" yOffset="204"/>
-  </outline>
-</glyph>

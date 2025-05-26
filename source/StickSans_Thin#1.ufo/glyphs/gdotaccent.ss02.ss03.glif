@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="gdotaccent.ss02.ss03" format="2">
-  <advance width="489"/>
-  <outline>
-    <component base="g.ss02"/>
-    <component base="dotaccentcomb.ss03" xOffset="162"/>
-  </outline>
-</glyph>
