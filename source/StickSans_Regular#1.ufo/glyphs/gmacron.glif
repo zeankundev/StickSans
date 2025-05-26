@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gmacron" format="2">
+  <advance width="514"/>
+  <unicode hex="1E21"/>
+  <outline>
+    <component base="g"/>
+    <component base="macroncomb" xOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

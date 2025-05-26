@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <advance width="474"/>
+  <unicode hex="030F"/>
+  <anchor x="304" y="493" name="_top"/>
+  <anchor x="238" y="697" name="top"/>
+  <outline>
+    <contour>
+      <point x="184" y="542" type="line"/>
+      <point x="248" y="542" type="line"/>
+      <point x="139" y="697" type="line"/>
+      <point x="49" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="542" type="line"/>
+      <point x="425" y="542" type="line"/>
+      <point x="316" y="697" type="line"/>
+      <point x="239" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="335"/>
+  <unicode hex="0066"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="167" y="697" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="427" type="line"/>
+      <point x="312" y="427" type="line"/>
+      <point x="312" y="493" type="line"/>
+      <point x="197" y="493" type="line"/>
+      <point x="197" y="557" type="line" smooth="yes"/>
+      <point x="197" y="606"/>
+      <point x="217" y="634"/>
+      <point x="260" y="634" type="curve" smooth="yes"/>
+      <point x="278" y="634"/>
+      <point x="296" y="629"/>
+      <point x="311" y="621" type="curve"/>
+      <point x="339" y="685" type="line"/>
+      <point x="314" y="698"/>
+      <point x="287" y="705"/>
+      <point x="251" y="705" type="curve" smooth="yes"/>
+      <point x="173" y="705"/>
+      <point x="113" y="669"/>
+      <point x="113" y="557" type="curve" smooth="yes"/>
+      <point x="113" y="493" type="line"/>
+      <point x="10" y="493" type="line"/>
+      <point x="10" y="427" type="line"/>
+      <point x="112" y="427" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

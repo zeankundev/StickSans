@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="232"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="80" y="414" type="line"/>
+      <point x="152" y="414" type="line"/>
+      <point x="152" y="697" type="line"/>
+      <point x="80" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

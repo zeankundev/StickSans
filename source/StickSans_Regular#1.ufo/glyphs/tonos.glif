@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance width="237"/>
+  <unicode hex="0384"/>
+  <anchor x="81" y="493" name="_top"/>
+  <outline>
+    <contour>
+      <point x="49" y="556" type="line"/>
+      <point x="111" y="556" type="line"/>
+      <point x="188" y="697" type="line"/>
+      <point x="108" y="697" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="240"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="120" y="351" type="curve" smooth="yes"/>
+      <point x="150" y="351"/>
+      <point x="175" y="376"/>
+      <point x="175" y="406" type="curve" smooth="yes"/>
+      <point x="175" y="437"/>
+      <point x="150" y="460"/>
+      <point x="120" y="460" type="curve" smooth="yes"/>
+      <point x="90" y="460"/>
+      <point x="66" y="437"/>
+      <point x="66" y="406" type="curve" smooth="yes"/>
+      <point x="66" y="376"/>
+      <point x="90" y="351"/>
+    </contour>
+    <contour>
+      <point x="120" y="-8" type="curve" smooth="yes"/>
+      <point x="151" y="-8"/>
+      <point x="175" y="17"/>
+      <point x="175" y="47" type="curve" smooth="yes"/>
+      <point x="175" y="78"/>
+      <point x="150" y="101"/>
+      <point x="120" y="101" type="curve" smooth="yes"/>
+      <point x="90" y="101"/>
+      <point x="66" y="78"/>
+      <point x="66" y="47" type="curve" smooth="yes"/>
+      <point x="66" y="17"/>
+      <point x="91" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

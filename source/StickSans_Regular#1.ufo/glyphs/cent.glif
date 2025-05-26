@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="560"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="265" y="-113" type="line"/>
+      <point x="325" y="-113" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="493" type="line"/>
+      <point x="325" y="493" type="line"/>
+      <point x="325" y="601" type="line"/>
+      <point x="265" y="601" type="line"/>
+    </contour>
+    <component base="c" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
