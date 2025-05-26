@@ -2,6 +2,8 @@
 <glyph name="five" format="2">
   <advance width="560"/>
   <unicode hex="0035"/>
+  <guideline x="58" y="336" angle="90"/>
+  <guideline x="150" y="384" angle="90"/>
   <outline>
     <contour>
       <point x="278" y="-8" type="curve" smooth="yes"/>
@@ -15,11 +17,11 @@
       <point x="178" y="450"/>
       <point x="126" y="389" type="curve"/>
       <point x="150" y="384" type="line"/>
-      <point x="199" y="654" type="line"/>
-      <point x="154" y="618" type="line"/>
+      <point x="150" y="654" type="line"/>
+      <point x="105" y="618" type="line"/>
       <point x="491" y="618" type="line"/>
       <point x="491" y="697" type="line"/>
-      <point x="123" y="697" type="line"/>
+      <point x="58" y="697" type="line"/>
       <point x="58" y="336" type="line"/>
       <point x="141" y="313" type="line"/>
       <point x="175" y="363"/>
