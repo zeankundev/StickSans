@@ -1,0 +1,26 @@
+{
+"name": "Ereversed-cy",
+"sources": [
+{
+"name": "",
+"layerName": "m003",
+"locationBase": "m003"
+}
+],
+"layers": {
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "E-cy",
+"transformation": {
+"translateX": 526,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 518
+}
+}
+}
+}

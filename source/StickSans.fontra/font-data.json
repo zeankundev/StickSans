@@ -108,5 +108,15 @@
 }
 }
 }
+},
+"customData": {
+"fontra.projectGlyphSets": [
+{
+"commentChars": "#",
+"dataFormat": "glyph-names",
+"name": "GF Cyrillic Core",
+"url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Cyrillic_Core.txt"
+}
+]
 }
 }

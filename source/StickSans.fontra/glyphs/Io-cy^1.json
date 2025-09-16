@@ -1,0 +1,73 @@
+{
+"name": "Io-cy",
+"sources": [
+{
+"name": "",
+"layerName": "m003",
+"locationBase": "m003"
+},
+{
+"name": "",
+"layerName": "957254E3-B7AD-4837-9092-D4428001DE8E",
+"locationBase": "957254E3-B7AD-4837-9092-D4428001DE8E"
+},
+{
+"name": "",
+"layerName": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E",
+"locationBase": "F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E"
+}
+],
+"layers": {
+"957254E3-B7AD-4837-9092-D4428001DE8E": {
+"glyph": {
+"components": [
+{
+"name": "Ie-cy"
+},
+{
+"name": "dieresiscomb",
+"transformation": {
+"translateX": 84,
+"translateY": 200
+}
+}
+],
+"xAdvance": 585
+}
+},
+"F91D9E91-C1BC-4259-B0D8-112C0CBA2B8E": {
+"glyph": {
+"components": [
+{
+"name": "Ie-cy"
+},
+{
+"name": "dieresiscomb",
+"transformation": {
+"translateX": 155,
+"translateY": 95
+}
+}
+],
+"xAdvance": 585
+}
+},
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "Ie-cy"
+},
+{
+"name": "dieresiscomb",
+"transformation": {
+"translateX": 108,
+"translateY": 152
+}
+}
+],
+"xAdvance": 585
+}
+}
+}
+}

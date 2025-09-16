@@ -1,0 +1,22 @@
+{
+"name": "a-cy",
+"sources": [
+{
+"name": "",
+"layerName": "m003",
+"locationBase": "m003"
+}
+],
+"layers": {
+"m003": {
+"glyph": {
+"components": [
+{
+"name": "a"
+}
+],
+"xAdvance": 540
+}
+}
+}
+}

@@ -43,6 +43,7 @@ Dcaron;U+010E
 Dcroat;U+0110
 Delta;U+0394
 E;U+0045
+E-cy;U+0404
 Eacute;U+00C9
 Ebreve;U+0114
 Ecaron;U+011A
@@ -64,6 +65,7 @@ Ehookabove;U+1EBA
 Emacron;U+0112
 Eng;U+014A
 Eogonek;U+0118
+Ereversed-cy;U+042D
 Eth;U+00D0
 Etilde;U+1EBC
 F;U+0046
@@ -91,9 +93,11 @@ Idieresis.ss03;
 Idotaccent;U+0130
 Idotbelow;U+1ECA
 Idotbelow.ss03;
+Ie-cy;U+0415
 Igrave;U+00CC
 Ihookabove;U+1EC8
 Imacron;U+012A
+Io-cy;U+0401
 Iogonek;U+012E
 Itilde;U+0128
 J;U+004A
@@ -220,6 +224,7 @@ Zcaron;U+017D
 Zdotaccent;U+017B
 Zdotaccent.ss03;
 a;U+0061
+a-cy;U+0430
 aacute;U+00E1
 abreve;U+0103
 abreveacute;U+1EAF
